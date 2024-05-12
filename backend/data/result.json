@@ -1,0 +1,54 @@
+{
+  "id": 115,
+  "name": "1234567890",
+  "device_stamp": 1707123187,
+  "model": "l.shipment",
+  "load_id": [
+    {
+      "id": 137,
+      "name": "12345",
+      "device_stamp": 1707123187,
+      "model": "l.handover",
+      "giver_compartment": [
+        {
+          "id": 148,
+          "name": "123",
+          "device_stamp": 1707123144,
+          "model": "l.compartment"
+        }
+      ],
+      "taker_compartment": [
+        {
+          "id": 149,
+          "name": "345",
+          "device_stamp": 1707123164,
+          "model": "l.compartment"
+        }
+      ]
+    }
+  ],
+  "handover_ids": [
+    {
+      "id": 138,
+      "name": "67890",
+      "device_stamp": 1707123187,
+      "model": "l.handover",
+      "giver_compartment": [
+        {
+          "id": 150,
+          "name": "678",
+          "device_stamp": 1707123012,
+          "model": "l.compartment"
+        }
+      ],
+      "taker_compartment": [
+        {
+          "id": 151,
+          "name": "890",
+          "device_stamp": 1707123037,
+          "model": "l.compartment"
+        }
+      ]
+    }
+  ]
+}
