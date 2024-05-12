@@ -1,0 +1,206 @@
+[
+  [
+    0,
+    0,
+    {
+      "name": "1234567890",
+      "id": -1707122886,
+      "device_stamp": 1707123187,
+      "ref": "1234567890",
+      "customer_id": 8,
+      "content": "PERTAMAX/PERTALITE",
+      "pickup_point": 1,
+      "pickup_address": "Citra Indah City, Sukamanah, Jonggol, Bogor, West Java, ID-JB, Java, ID-JW, 16830, Indonesia, id",
+      "pickup_time": "2021-05-05 15:48:00",
+      "dropoff_point": 2,
+      "dropoff_address": "Citra Indah City, Sukamanah, Jonggol, Bogor, West Java, ID-JB, Java, ID-JW, 16830, Indonesia, id",
+      "dropoff_time": "2021-05-26 15:48:00",
+      "load_id": [
+        [
+          0,
+          0,
+          {
+            "geo_position": "-6.4453512, 107.0421439",
+            "id": -1707123064,
+            "device_stamp": 1707123187,
+            "name": "12345",
+            "qty": 1,
+            "shipment_id": -1707122886,
+            "mode": "load",
+            "giver_carrier_id": "123",
+            "giver_carrier_type": "tes123",
+            "giver_carrier_vendor": 1,
+            "giver_compartment": [
+              [
+                0,
+                0,
+                {
+                  "name": "123",
+                  "device_stamp": 1707123144,
+                  "id": -1707123144,
+                  "measurement_tools": "flowmeter",
+                  "do_number": "123",
+                  "handover_id": -1707123064,
+                  "mode": "giver",
+                  "liquid_level_before": 0,
+                  "liquid_level_after": 0,
+                  "density": 0,
+                  "temperature": 0,
+                  "meter_reading_before": 0,
+                  "meter_reading_after": 0,
+                  "volume": 0,
+                  "container_max_capacity": 0,
+                  "container_quantity": false,
+                  "photos_before_unloading": false,
+                  "photos_after_unloading": false
+                }
+              ]
+            ],
+            "taker_carrier_id": "345",
+            "taker_carrier_type": "tes345",
+            "taker_carrier_vendor": 2,
+            "taker_compartment": [
+              [
+                0,
+                0,
+                {
+                  "name": "345",
+                  "device_stamp": 1707123164,
+                  "id": -1707123164,
+                  "measurement_tools": "containers",
+                  "do_number": "345",
+                  "handover_id": -1707123064,
+                  "mode": "taker",
+                  "liquid_level_before": 0,
+                  "liquid_level_after": 0,
+                  "density": 0,
+                  "temperature": 0,
+                  "meter_reading_before": 0,
+                  "meter_reading_after": 0,
+                  "volume": 0,
+                  "container_max_capacity": 0,
+                  "container_quantity": false,
+                  "photos_before_unloading": false,
+                  "photos_after_unloading": false
+                }
+              ]
+            ],
+            "situation_1": false,
+            "situation_2": false,
+            "pics": false,
+            "videos": false,
+            "giver_id": 7,
+            "giver_phone": false,
+            "giver_email": false,
+            "giver_signature": false,
+            "taker_id": 3,
+            "taker_phone": false,
+            "taker_email": false,
+            "taker_signature": false,
+            "witness_1_id": false,
+            "witness_1_phone": false,
+            "witness_1_email": false,
+            "witness_1_signature": false,
+            "witness_2_id": false,
+            "witness_2_phone": false,
+            "witness_2_email": false,
+            "witness_2_signature": false
+          }
+        ]
+      ],
+      "handover_ids": [
+        [
+          0,
+          0,
+          {
+            "geo_position": "-6.4453512, 107.0421439",
+            "id": -1707122946,
+            "device_stamp": 1707123187,
+            "name": "67890",
+            "qty": 6,
+            "shipment_id": -1707122886,
+            "mode": "handover",
+            "giver_carrier_id": "678",
+            "giver_carrier_type": "tes678",
+            "giver_carrier_vendor": 1,
+            "giver_compartment": [
+              [
+                0,
+                0,
+                {
+                  "name": "678",
+                  "device_stamp": 1707123012,
+                  "id": -1707123012,
+                  "measurement_tools": "ijkbout",
+                  "do_number": "678",
+                  "handover_id": -1707122946,
+                  "mode": "giver",
+                  "liquid_level_before": 0,
+                  "liquid_level_after": 0,
+                  "density": 0,
+                  "temperature": 0,
+                  "meter_reading_before": 0,
+                  "meter_reading_after": 0,
+                  "volume": 0,
+                  "container_max_capacity": 0,
+                  "container_quantity": false,
+                  "photos_before_unloading": false,
+                  "photos_after_unloading": false
+                }
+              ]
+            ],
+            "taker_carrier_id": "890",
+            "taker_carrier_type": "tes890",
+            "taker_carrier_vendor": 2,
+            "taker_compartment": [
+              [
+                0,
+                0,
+                {
+                  "name": "890",
+                  "device_stamp": 1707123037,
+                  "id": -1707123037,
+                  "measurement_tools": "ijkbout",
+                  "do_number": "890",
+                  "handover_id": -1707122946,
+                  "mode": "taker",
+                  "liquid_level_before": 0,
+                  "liquid_level_after": 0,
+                  "density": 0,
+                  "temperature": 0,
+                  "meter_reading_before": 0,
+                  "meter_reading_after": 0,
+                  "volume": 0,
+                  "container_max_capacity": 0,
+                  "container_quantity": false,
+                  "photos_before_unloading": false,
+                  "photos_after_unloading": false
+                }
+              ]
+            ],
+            "situation_1": false,
+            "situation_2": false,
+            "pics": false,
+            "videos": false,
+            "giver_id": 7,
+            "giver_phone": false,
+            "giver_email": false,
+            "giver_signature": false,
+            "taker_id": 3,
+            "taker_phone": false,
+            "taker_email": false,
+            "taker_signature": false,
+            "witness_1_id": false,
+            "witness_1_phone": false,
+            "witness_1_email": false,
+            "witness_1_signature": false,
+            "witness_2_id": false,
+            "witness_2_phone": false,
+            "witness_2_email": false,
+            "witness_2_signature": false
+          }
+        ]
+      ]
+    }
+  ]
+]
